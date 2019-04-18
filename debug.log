@@ -1,0 +1,15 @@
+[0211/110805.016:ERROR:settings.cc(266)] Settings version is not 1
+[0228/060747.172:ERROR:settings.cc(266)] Settings version is not 1
+[0724/102314.668:ERROR:settings.cc(266)] Settings version is not 1
+[0728/112218.519:ERROR:settings.cc(266)] Settings version is not 1
+[0728/142745.549:ERROR:settings.cc(266)] Settings version is not 1
+[0730/120253.545:ERROR:persistent_memory_allocator.cc(777)] Corruption detected in shared-memory segment.
+[0730/120253.547:ERROR:settings.cc(266)] Settings version is not 1
+[0730/212149.968:ERROR:settings.cc(266)] Settings version is not 1
+[0731/005729.265:ERROR:settings.cc(266)] Settings version is not 1
+[0731/014200.722:ERROR:settings.cc(266)] Settings version is not 1
+[0731/111529.061:ERROR:settings.cc(266)] Settings version is not 1
+[0731/234333.397:ERROR:settings.cc(266)] Settings version is not 1
+[0808/205037.668:ERROR:settings.cc(266)] Settings version is not 1
+[0808/211121.394:ERROR:settings.cc(266)] Settings version is not 1
+[1008/181904.729:ERROR:settings.cc(266)] Settings version is not 1
